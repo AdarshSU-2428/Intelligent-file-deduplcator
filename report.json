@@ -1,0 +1,11 @@
+[
+  {
+    "kept_file": "./test_folder\\test_file1.txt",
+    "hash_value": "e84305b33fc0e1d12acac971e9078b5cbeca5bece829f2b262008afd94864349",
+    "bytes_saved": 2796,
+    "quarantined_file": [
+      "./test_folder\\test_file3.txt",
+      "./test_folder\\test_file4.txt"
+    ]
+  }
+]
